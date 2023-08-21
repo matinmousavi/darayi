@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./../fonts/YekanBakh/YekanBakhFaNum/Webfonts/fonts/woff/YekanBakhFaNum-Regular.woff")
+      format("woff"),
+    url("./../fonts/YekanBakh/YekanBakhFaNum/Webfonts/fonts/woff2/YekanBakhFaNum-Regular.woff2")
+      format("woff2");
+}
+@tailwind utilities;
